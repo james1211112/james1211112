@@ -13,3 +13,7 @@ interested in programming, parsers, and compilers
 ### projects
 
 - [lua-parser](https://github.com/james1211112/lua-parser)
+
+### stars
+
+![stars](https://img.shields.io/github/stars/james1211112/lua-parser?style=flat-square&color=yellow)
