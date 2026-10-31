@@ -17,3 +17,11 @@ interested in programming, parsers, and compilers
 ### stars
 
 ![stars](https://img.shields.io/github/stars/james1211112/lua-parser?style=flat-square&color=404040)
+
+### pull requests
+
+![prs](https://ghstats.dev/api/mini?username=james1211112&metric=prs&style=flat-square&color=404040)
+
+### contributions
+
+![contributions](https://ghstats.dev/api/mini?username=james1211112&metric=contributions&style=flat-square&color=404040)
