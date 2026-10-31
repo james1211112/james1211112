@@ -16,4 +16,4 @@ interested in programming, parsers, and compilers
 
 ### stars
 
-![stars](https://img.shields.io/github/stars/james1211112/lua-parser?style=flat-square&color=yellow)
+![stars](https://img.shields.io/github/stars/james1211112/lua-parser?style=flat-square&color=404040)
